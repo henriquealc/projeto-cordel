@@ -27,10 +27,9 @@ header{
     color: white;
     background-color: black;
     text-decoration: none; /*Remove o sublinhado do nome Milton*/
-    text-align: center;
-    
-    
+    text-align: center;    
 }
+
 header > h1{
     padding-top: 50px;
     font-family: var(--fonte2);
@@ -118,7 +117,7 @@ footer{
 footer > a{
     text-decoration: none;
     color: white;
-    font-weight: bolder;
+    font-weight: bolder; /*Coloca em negrito*/
 
 }
 
